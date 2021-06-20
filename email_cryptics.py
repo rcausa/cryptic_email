@@ -4,8 +4,6 @@ import sqlite3
 import smtplib 
 from email.message import EmailMessage
 import sys
-sys.path.append('/Users/roshanodonnell/Coding Projects/2021/cryptic_email/venv/lib/python3.9/site-packages/')
-print(sys.path)
 # import mailchimp3
 # from mailchimp3 import MailChimp
 
